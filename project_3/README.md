@@ -96,27 +96,27 @@ To use API to extract data from reddit and to develop a classification model tha
   | Index | Title                                             | True     | Predicted |
   | ----- | ------------------------------------------------- | -------- | --------- |
   | 1     | he didnt appreciate it as much as i did           | Puns     | Politics  |
-  | 2     | us currency has some of the highest math score... | Puns     | Politics  |
-  | 3     | why was the ratio of the side opposite an angl... | Puns     | Politics  |
-  | 4     | that new caffeinated water should be renamed a... | Puns     | Politics  |
-  | 5     | in god we trust going up at south dakota publi... | Politics | Puns      |
-  | 6     | rand paul aide calls jon stewart a disheveled ... | Politics | Puns      |
-  | 7     | those hit hardest by student debt never finish... | Politics | Puns      |
-  | 8     | barr says police need encryption backdoors doe... | Politics | Puns      |
-  | 9     | house passes measure endorsing all trumpfocuse... | Politics | Puns      |
-  | 10    | thank laws supported by atampt and comcast for... | Politics | Puns      |
-  | 11    | ethics office investigates whether interior de... | Politics | Puns      |
-  | 12    | orourke what we saw in north carolina last wee... | Politics | Puns      |
+  | 2     | us currency has some of the highest math scores possible | Puns     | Politics  |
+  | 3     | why was the ratio of the side opposite an angle to the hypotenuse sick | Puns     | Politics  |
+  | 4     | that new caffeinated water should be renamed as h2joe | Puns     | Politics  |
+  | 5     | in god we trust going up at south dakota public schools | Politics | Puns      |
+  | 6     | rand paul aide calls jon stewart a disheveled charlatan | Politics | Puns      |
+  | 7     | those hit hardest by student debt never finish college | Politics | Puns      |
+  | 8     | barr says police need encryption backdoors doesnt mention hacking tools they use all the time | Politics | Puns      |
+  | 9     | house passes measure endorsing all trumpfocused subpoenas | Politics | Puns      |
+  | 10    | thank laws supported by atampt and comcast for californias broadband monopoly problem | Politics | Puns      |
+  | 11    | ethics office investigates whether interior dept officials violated transparency laws | Politics | Puns      |
+  | 12    | orourke what we saw in north carolina last week was almost an impromptu nuremberg rally | Politics | Puns      |
   | 13    | joe what a great day it was for gop and putin     | Politics | Puns      |
   | 14    | newt gingrich just gave away the game             | Politics | Puns      |
-  | 15    | when will we get the full truth about how and ... | Politics | Puns      |
+  | 15    | when will we get the full truth about how and why the government is using face recognition | Politics | Puns      |
   | 16    | chuck schumer is not a wartime consigliere        | Politics | Puns      |
-  | 17    | speaker pelosi press conference with judiciary... | Politics | Puns      |
-  | 18    | the cop who said aoc needs a round just got fi... | Politics | Puns      |
-  | 19    | investigative reporter seymour hersh the world... | Politics | Puns      |
-  | 20    | putins mitch billboard grabs attention on inte... | Politics | Puns      |
-  | 21    | comey if this were a case about somebody other... | Politics | Puns      |
-  | 22    | what do the democrats stand for inside a fight... | Politics | Puns      |
+  | 17    | speaker pelosi press conference with judiciary and intelligence committee chairs | Politics | Puns      |
+  | 18    | the cop who said aoc needs a round just got fired chief arthur lawson reportedly fired the 14year veteran of the force and another officer who liked the threatening post | Politics | Puns      |
+  | 19    | investigative reporter seymour hersh the world is run by ignoramuses wackos and psychotics | Politics | Puns      |
+  | 20    | putins mitch billboard grabs attention on interstate 65	 | Politics | Puns      |
+  | 21    | comey if this were a case about somebody other than the president theyd already have been indicted | Politics | Puns      |
+  | 22    | what do the democrats stand for inside a fight over americas future | Politics | Puns      |
 
 *Word Frequency*:
 
