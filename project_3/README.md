@@ -12,9 +12,10 @@ Given two subreddit threads, how can we determine from which thread does a given
 
 To use API to extract data from reddit and to develop a classification model that could:
 
-1. understand puns and differentiate them from politics news based on `post title` using **Natural Language Processing**,
+1. differentiate posts in puns (url: https://www.reddit.com/r/puns/) from politics (url: https://www.reddit.com/r/politics) based on `post title` using **Natural Language Processing**,
 
 2. analyze the most frequently occuring words in `post title`, and
+
 3. analyze the sentiment of the posts.
 
 ------
